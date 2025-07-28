@@ -139,11 +139,13 @@ Open your browser at `http://127.0.0.1:5000` to access the web interface. You ca
 #### 📸 Web Interface Demo
 
 **Upload Interface:**
+
 ![Demo 1 - Upload Interface](demo1.png)
 
 The web application provides a user-friendly interface for uploading multispectral TIFF images (max 16MB) with drag-and-drop functionality. The system supports various formats with multispectral data preferred for optimal accuracy.
 
 **Analysis Results:**
+
 ![Demo 2 - Results Interface](demo2.png)
 
 After processing, the HydroSeg Analysis Report displays:
